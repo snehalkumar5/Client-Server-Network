@@ -1,6 +1,4 @@
-## ASSIGNMENT - 6
-### SNEHAL KUMAR
-### 2019101003
+## Client-Server Communication through TCP/IP
 
 ### Server
 Compile and execute program by- gcc server.c -o server && ./server
